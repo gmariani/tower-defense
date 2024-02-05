@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"source-path": [
+			"."
+		],
+		"output": "TowerDefense.swf",
+		"default-frame-rate": 21,
+		"default-background-color": "#FFFFFF",
+		"default-size": {
+			"width": 300,
+			"height": 300
+		},
+		"target-player": "9.0"
+	}
+}
